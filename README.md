@@ -10,7 +10,7 @@ This project optimizes video transmission quality by dynamically aligning a dire
 
 ## Supported Versions
 This project offers multiple versions with different features:
-1. **[Version 1: RSSI Only](Version%201:%20RSSI%20Only/README.md)**: Uses WiFi signal strength (RSSI) to align the antenna dynamically.
+1. **[Version 1: RSSI Only](Version%201%3A%20RSSI%20Only/README.md)**: Uses WiFi signal strength (RSSI) to align the antenna dynamically.
 2. **Version 2: GPS + RSSI**: Combines GPS and WiFi signal strength for more accurate alignment.
 3. **Version 3: Swarming with Mesh Network, GPS, and RSSI**: Adds mesh network capabilities for UAV swarming and advanced alignment.
 
