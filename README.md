@@ -29,6 +29,21 @@ This project offers multiple versions with different features:
 1. **WiringPi Library** (for Raspberry Pi Zero 2 W).
 2. **libgpiod** (for Jetson Nano and Radxa Zero 3W).
 3. **GStreamer**: For video streaming over WiFi.
+
+## **Related Projects**  
+
+### **PCB Yagi-Uda Antenna for UAV Video Transmission**  
+This repository contains the design, simulation, and implementation of a **PCB Yagi-Uda antenna** optimized for UAV video transmission. The antenna operates at **2.45 GHz**, providing **high gain** while maintaining a **compact and lightweight** form factor.  
+
+<div align="center">
+
+[![PCB-Yagi-Antenna](https://img.shields.io/badge/🔗%20PCB--Yagi--Antenna-Explore%20Now!-orange?style=for-the-badge)](https://github.com/Paschalis/PCB-Yagi-Antenna)  
+[![Stars](https://img.shields.io/github/stars/Paschalis/PCB-Yagi-Antenna?label=🌟%20Stars&style=for-the-badge&color=yellow)](https://github.com/Paschalis/PCB-Yagi-Antenna/stargazers)  [![Forks](https://img.shields.io/github/forks/Paschalis/PCB-Yagi-Antenna?label=🍴%20Forks&style=for-the-badge&color=blue)](https://github.com/Paschalis/PCB-Yagi-Antenna/network/members)   [![Activity](https://img.shields.io/github/last-commit/Paschalis/PCB-Yagi-Antenna?label=⏳%20Last%20Update&style=for-the-badge&color=green)](https://github.com/Paschalis/PCB-Yagi-Antenna/commits/main)  
+
+</div>  
+
+Explore more about the **PCB Yagi-Uda Antenna for UAV Video Transmission** project, including its **design methodology, simulations, and real-world implementation**, by clicking the badge above to access the full documentation and setup guide.  
+
 ## License
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
